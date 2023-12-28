@@ -9,8 +9,8 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/oshunwilson/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/oshunwilson/azure-network-protocols)
-
-<h2>🤳Connect with me:</h2>
+  - [Building a SOC + Honeynet in Azure (Live Traffic)
+](https://github.com/OshunWilson/Azure-SOC)<h2>🤳Connect with me:</h2>
 
 
 [<img align="left" alt="Oshun | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
